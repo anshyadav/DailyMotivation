@@ -1,27 +1,25 @@
+[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 # DailyMotivation
 > A website to boost your motivation daily. Visit only if you love cats.
 
 `Daily Motivation` is a simple Javascript web application which uses the public API to fetch the motivational quotes and images. This was developed as a personal project but everyone is welcome to use it. The implementation strives to be simple and free of unnecessary dependencies.
 
-[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+## Programming Languages
 
-Programming Languages:
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
+- [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+- [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+- [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
 
-Code Editor: Visual Studio Code (Open Source by Microsoft)
-Versioning Tool: Git
+## Tools Used
 
-Preview URL: 
+- Visual Studio Code (Open Source by Microsoft)
+- Versioning Tool: Git
 
+## Preview URL
 
-
-
-
-
-
+XXX
 
 ## Goals
 
@@ -40,9 +38,6 @@ Preview URL:
 - `/site.js` Javascript file to connect to the API and inject the response to the DOM
 - `/style.css` Stylesheet to give the style and responsive design
 - `/README.md` Read me file to help me understand
-
-## Preview
-- 
 
 ## Contributing
 
