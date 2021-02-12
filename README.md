@@ -19,7 +19,7 @@
 
 ## Preview URL
 
-XXX
+[https://dailymotivation.netlify.app](https://dailymotivation.netlify.app/)
 
 ## Goals
 
