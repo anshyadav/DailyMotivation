@@ -1,0 +1,52 @@
+body{
+    background-color: #dde1e7;
+}
+
+.top-container{
+    margin-top: 0% !important;
+    margin-bottom: 0% !important;
+}
+
+.flex-div {
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    padding: 2%;
+    margin:2% 2% 0% 2%;
+}
+
+.flex-item{
+    background: #dde1e7;
+    padding: 50px;
+    width: 426px;
+    margin-top: 10px;
+    line-height: 50px;
+    color: black;
+    font-weight: bold;
+    font-size: 2.4em;
+    text-align: center;
+    border-radius: 5px;
+	box-shadow: -3px -3px 7px #ffffffb2, 3px 3px 5px rgba(94, 104, 121, 0.945);
+}
+
+.img{
+    border: 2px solid black;
+    width: 420px;
+}
+
+.shiny-btn{
+    color: #dde1e7;
+    font-weight: 700;
+    font-size: 1.4rem;
+    text-decoration: none;
+    padding: 9px 16px;
+    background-color: #131315;
+    transition: all .2s ease-in-out;
+}
+
+.shiny-btn:hover{
+    transform: scale(1.1);
+    background-position: -60px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    cursor: pointer;
+}
