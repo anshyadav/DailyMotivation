@@ -1,2 +1,2 @@
 # DailyMotivation
-Website to boost your motivation daily.
+A website to boost your motivation daily.
