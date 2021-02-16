@@ -58,6 +58,10 @@ body{
     justify-content: center;
     padding: 15px 5px;
     font-size: 18px;
+    margin-bottom: 0px !important;
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
   }
   
   .footer a {
