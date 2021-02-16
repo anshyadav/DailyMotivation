@@ -50,3 +50,22 @@ body{
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
     cursor: pointer;
 }
+
+.footer {
+    display: flex;
+    background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+    color: white;
+    justify-content: center;
+    padding: 15px 5px;
+    font-size: 18px;
+  }
+  
+  .footer a {
+    color: cornsilk;
+  }
+
+@media screen and (max-width:625px) {
+    .footer{
+      margin-top: 295px;
+    }
+  }
